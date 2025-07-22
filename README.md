@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Grace Elizabeth Jose 👋
 
-<!--
-**Grace1903/Grace1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who loves building creative and meaningful tech projects.  
+I’m passionate about Artificial Intelligence, Machine Learning, and designing beautiful user experiences.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Languages: Python, C, JavaScript, HTML, CSS
+- Tools: Figma, Canva, Firebase
 
-- 🔭 I’m currently working on ...
-###- 🌱 I’m currently learning  computerscience engineering...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach Me
+- Email: graceelizabethjose@gmail.com
+
+Thanks for visiting! 🌸
