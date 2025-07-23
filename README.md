@@ -5,7 +5,7 @@ I’m passionate about Artificial Intelligence, Machine Learning, and designing 
 
 ### 🔧 Skills
 - Languages: Python, C, JavaScript, HTML, CSS
-- Tools: Figma, Canva, Firebase
+- Tools: Figma, Canva
 
 ### 📫 Reach Me
 - Email: graceelizabethjose@gmail.com
