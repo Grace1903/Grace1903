@@ -22,5 +22,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Grace1903/Grace1903/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 
