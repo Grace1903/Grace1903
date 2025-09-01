@@ -1,6 +1,8 @@
 # 💫 About Me:
 ✨ Hello, I’m Grace Elizabeth Jose<br><br>💻 Aspiring Developer | AI & ML Enthusiast | Creative Coder<br>🎨 Design Lover | Dreaming in Code & Colors<br><br>🚀 Exploring AI, ML, Generative AI, and cloud computing<br><br>🤖 Passionate about AI, ML, and cloud technologies<br><br>🎮 Always experimenting with fun, aesthetic, and interactive projects
 
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/grace-elizabeth-jose-a1a240255) 
@@ -21,6 +23,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Grace1903/Grace1903/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Grace1903/Grace1903/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
 
 
