@@ -16,3 +16,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Grace1903&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Grace1903$/Grace1903/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Grace1903/Grace1903/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Grace1903/Grace1903/output/pacman-contribution-graph.svg">
+</picture>
+
