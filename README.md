@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hello, I’m Grace Elizabeth Jose<br><br>💻 Aspiring Developer | AI & ML Enthusiast | Creative Coder<br><br>🚀 Exploring AI, ML, Generative AI, and cloud computing<br><br>🤖 Passionate about AI, ML, and cloud technologies<br><br>🎮 Always experimenting with fun, aesthetic, and interactive projects
+✨ Hello, I’m Grace Elizabeth Jose<br><br>💻 Aspiring Developer | AI & ML Enthusiast | Creative Coder<br><br>🤖 Passionate about AI, ML, and cloud technologies<br><br>🎮 Always experimenting with fun, aesthetic, and interactive projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
 <br><br>
